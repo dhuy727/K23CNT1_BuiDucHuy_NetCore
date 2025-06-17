@@ -1,0 +1,40 @@
+﻿@model BdhLab06.Models.BdhEmployee
+
+@{
+    ViewData["Title"] = "BdhCreate";
+}
+
+<h2>Thêm mới nhân viên</h2>
+
+<form asp-action="BdhCreateSubmit" method="post" class="border p-3">
+    <div class="form-group">
+        <label>Họ tên</label>
+        <input asp-for="BdhName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ngày sinh</label>
+        <input asp-for="BdhBirthDay" class="form-control" type="date" />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="BdhEmail" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Điện thoại</label>
+        <input asp-for="BdhPhone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Lương</label>
+        <input asp-for="BdhSalary" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Trạng thái</label>
+        <select asp-for="BdhStatus" class="form-control">
+            <option value="true">Đang làm</option>
+            <option value="false">Nghỉ</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-success">Thêm</button>
+    <a href="/BdhEmployee/BdhIndex" class="btn btn-secondary">Quay lại</a>
+</form>
+

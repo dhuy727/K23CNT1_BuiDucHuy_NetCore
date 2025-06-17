@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\netcoremvclab05\\netcoremvclab05\\views\\shared\\_bdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|solutionrelative:netcoremvclab05\\views\\shared\\_bdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\netcoremvclab05\\netcoremvclab05\\views\\bdhhome\\bdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|solutionrelative:netcoremvclab05\\views\\bdhhome\\bdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\netcoremvclab05\\netcoremvclab05\\views\\bdhaccount\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|solutionrelative:netcoremvclab05\\views\\bdhaccount\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\netcoremvclab05\\netcoremvclab05\\controllers\\bdhaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|solutionrelative:netcoremvclab05\\controllers\\bdhaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\netcoremvclab05\\netcoremvclab05\\views\\bdhaccount\\bdhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|solutionrelative:netcoremvclab05\\views\\bdhaccount\\bdhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\netcoremvclab05\\netcoremvclab05\\models\\bdhaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|solutionrelative:netcoremvclab05\\models\\bdhaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\netcoremvclab05\\netcoremvclab05\\views\\bdhhome\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|solutionrelative:netcoremvclab05\\views\\bdhhome\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\netcoremvclab05\\netcoremvclab05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|solutionrelative:netcoremvclab05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\netcoremvclab05\\netcoremvclab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428C224A-F30B-4E8E-85D2-27E01DF079A8}|NetCoreMVCLAB05\\NetCoreMVCLAB05.csproj|solutionrelative:netcoremvclab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BdhIndex.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\BdhAccount\\BdhIndex.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB05\\Views\\BdhAccount\\BdhIndex.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\BdhAccount\\BdhIndex.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB05\\Views\\BdhAccount\\BdhIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T02:49:11.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_BdhLayout.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\Shared\\_BdhLayout.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB05\\Views\\Shared\\_BdhLayout.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\Shared\\_BdhLayout.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB05\\Views\\Shared\\_BdhLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:50:32.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BdhAccountController.cs",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Controllers\\BdhAccountController.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB05\\Controllers\\BdhAccountController.cs",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Controllers\\BdhAccountController.cs",
+              "RelativeToolTip": "NetCoreMVCLAB05\\Controllers\\BdhAccountController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:05:59.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BdhIndex.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\BdhHome\\BdhIndex.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB05\\Views\\BdhHome\\BdhIndex.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\BdhHome\\BdhIndex.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB05\\Views\\BdhHome\\BdhIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:58:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BdhAbout.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\BdhHome\\BdhAbout.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB05\\Views\\BdhHome\\BdhAbout.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\BdhHome\\BdhAbout.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB05\\Views\\BdhHome\\BdhAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:58:54.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BdhCreate.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\BdhAccount\\BdhCreate.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB05\\Views\\BdhAccount\\BdhCreate.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\BdhAccount\\BdhCreate.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB05\\Views\\BdhAccount\\BdhCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T02:49:38.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BdhAccount.cs",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Models\\BdhAccount.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB05\\Models\\BdhAccount.cs",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Models\\BdhAccount.cs",
+              "RelativeToolTip": "NetCoreMVCLAB05\\Models\\BdhAccount.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:01:55.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB05\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetCoreMVCLAB05\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:50:05.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLAB05\\Program.cs",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\NetCoreMVCLAB05\\NetCoreMVCLAB05\\Program.cs",
+              "RelativeToolTip": "NetCoreMVCLAB05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:56:21.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

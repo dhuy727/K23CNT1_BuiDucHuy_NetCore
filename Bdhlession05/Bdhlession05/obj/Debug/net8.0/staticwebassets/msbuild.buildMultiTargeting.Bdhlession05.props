@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bdhlession05.props" />
+</Project>

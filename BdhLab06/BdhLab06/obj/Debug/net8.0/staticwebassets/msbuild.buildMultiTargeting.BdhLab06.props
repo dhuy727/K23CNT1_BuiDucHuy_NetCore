@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BdhLab06.props" />
+</Project>

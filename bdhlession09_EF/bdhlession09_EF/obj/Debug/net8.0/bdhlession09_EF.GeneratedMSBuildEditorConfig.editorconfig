@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = bdhlession09_EF
+build_property.RootNamespace = bdhlession09_EF
+build_property.ProjectDir = C:\Netcore\K23CNT1_BuiDucHuy_NetCore\bdhlession09_EF\bdhlession09_EF\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Netcore\K23CNT1_BuiDucHuy_NetCore\bdhlession09_EF\bdhlession09_EF
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/BdhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xCZGhJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhHome/BdhAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoSG9tZVxCZGhBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhHome/BdhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoSG9tZVxCZGhJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/BdhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xCZGhJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/Shared/BdhError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJkaEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/Shared/_BdhNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CZGhOYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/Shared/_BdhLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CZGhMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-utiux6sfmj

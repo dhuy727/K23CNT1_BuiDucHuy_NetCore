@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Thông tin member";
+    var bdhMember = ViewBag.bdhMember as Bdhlession05.Models.DataModels.BdhMember;
+}
+
+<div class="alert alert-danger">
+    <h1>Thông tin member</h1>
+    <hr />
+    <p>Member Id: @bdhMember.BdhMemberId</p>
+    <p>UserName:@bdhMember.BdhUserName</p>
+    <p>FullName: @bdhMember.BdhFullName</p>
+    <p>Password:  @bdhMember.BdhPassword </p>
+    <p>Email:  @bdhMember.BdhEmail </p>
+</div>
+

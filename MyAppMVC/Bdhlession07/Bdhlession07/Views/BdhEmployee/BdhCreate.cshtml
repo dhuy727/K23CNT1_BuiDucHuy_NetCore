@@ -1,0 +1,60 @@
+﻿@model Bdhlession07.Models.BdhEmployee
+
+@{
+    ViewData["Title"] = "BdhCreate";
+}
+
+<h1>BdhCreate</h1>
+
+<h4>BdhEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BdhCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="BdhId" class="control-label"></label>
+                <input asp-for="BdhId" class="form-control" />
+                <span asp-validation-for="BdhId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BdhName" class="control-label"></label>
+                <input asp-for="BdhName" class="form-control" />
+                <span asp-validation-for="BdhName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BdhBirthDay" class="control-label"></label>
+                <input asp-for="BdhBirthDay" class="form-control" />
+                <span asp-validation-for="BdhBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BdhEmail" class="control-label"></label>
+                <input asp-for="BdhEmail" class="form-control" />
+                <span asp-validation-for="BdhEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BdhPhone" class="control-label"></label>
+                <input asp-for="BdhPhone" class="form-control" />
+                <span asp-validation-for="BdhPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BdhSalary" class="control-label"></label>
+                <input asp-for="BdhSalary" class="form-control" />
+                <span asp-validation-for="BdhSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="BdhStatus" /> @Html.DisplayNameFor(model => model.BdhStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

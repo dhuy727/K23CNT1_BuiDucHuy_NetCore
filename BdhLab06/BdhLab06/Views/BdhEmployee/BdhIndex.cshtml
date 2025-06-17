@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Thông tin nhân viên";
+}
+
+<a href="/BdhEmployee/BdhCreate" class="btn btn-primary mb-3">Thêm nhân viên mới</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>ID</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Email</th>
+            <th>Điện thoại</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.BdhId</td>
+                <td>@emp.BdhName</td>
+                <td>@emp.BdhBirthDay.ToString("dd/MM/yyyy")</td>
+                <td>@emp.BdhEmail</td>
+                <td>@emp.BdhPhone</td>
+                <td>@emp.BdhSalary.ToString("N0")</td>
+                <td>@(emp.BdhStatus ? "Đang làm" : "Nghỉ")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

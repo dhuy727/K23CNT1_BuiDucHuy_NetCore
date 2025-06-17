@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lesiion03.props" />
+</Project>

@@ -19,21 +19,26 @@ namespace bdhlession09_EF.Controllers
         }
 
         // GET: BdhCategories
-        public async Task<IActionResult> BdhIndex()
+        public async Task<IActionResult> BdhIndex(string keyword)
         {
-            return View(await _context.Categories.ToListAsync());
+            var bdhCatagories = await _context.Categories.ToListAsync();
+            if (string.IsNullOrWhiteSpace(keyword))     
+            {
+                bdhCatagories =  bdhCatagories.Where(x=>x.CategoryName.Contains(keyword)).ToList();
+            }
+            return View(bdhCatagories);
         }
 
         // GET: BdhCategories/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> BdhDetails(int? bdhid)
         {
-            if (id == null)
+            if (bdhid == null)
             {
                 return NotFound();
             }
 
             var category = await _context.Categories
-                .FirstOrDefaultAsync(m => m.CategoryId == id);
+                .FirstOrDefaultAsync(m => m.CategoryId == bdhid);
             if (category == null)
             {
                 return NotFound();
@@ -43,9 +48,10 @@ namespace bdhlession09_EF.Controllers
         }
 
         // GET: BdhCategories/Create
-        public IActionResult Create()
+        public IActionResult BdhCreate()
         {
-            return View();
+            var bdhCatagories = new Category();
+            return View(bdhCatagories);
         }
 
         // POST: BdhCategories/Create
@@ -53,7 +59,7 @@ namespace bdhlession09_EF.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("CategoryId,CategoryName")] Category category)
+        public async Task<IActionResult> BdhCreate([Bind("CategoryId,CategoryName")] Category category)
         {
             if (ModelState.IsValid)
             {
@@ -65,7 +71,7 @@ namespace bdhlession09_EF.Controllers
         }
 
         // GET: BdhCategories/Edit/5
-        public async Task<IActionResult> Edit(int? bdhid)
+        public async Task<IActionResult> BdhEdit(int? bdhid)
         {
             if (bdhid == null)
             {
@@ -85,7 +91,7 @@ namespace bdhlession09_EF.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int bdhid, [Bind("CategoryId,CategoryName")] Category category)
+        public async Task<IActionResult> BdhEdit(int bdhid, [Bind("CategoryId,CategoryName")] Category category)
         {
             if (bdhid != category.CategoryId)
             {
@@ -115,16 +121,16 @@ namespace bdhlession09_EF.Controllers
             return View(category);
         }
 
-        // GET: BdhCategories/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        // GET: BdhCategories/BdhDelete/5
+        public async Task<IActionResult> BdhDelete(int? bdhid)
         {
-            if (id == null)
+            if (bdhid == null)
             {
                 return NotFound();
             }
 
             var category = await _context.Categories
-                .FirstOrDefaultAsync(m => m.CategoryId == id);
+                .FirstOrDefaultAsync(m => m.CategoryId == bdhid);
             if (category == null)
             {
                 return NotFound();
@@ -133,12 +139,12 @@ namespace bdhlession09_EF.Controllers
             return View(category);
         }
 
-        // POST: BdhCategories/Delete/5
+        // POST: BdhCategories/BdhDelete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public async Task<IActionResult> BdhDeleteConfirmed(int bdhid)
         {
-            var category = await _context.Categories.FindAsync(id);
+            var category = await _context.Categories.FindAsync(bdhid);
             if (category != null)
             {
                 _context.Categories.Remove(category);

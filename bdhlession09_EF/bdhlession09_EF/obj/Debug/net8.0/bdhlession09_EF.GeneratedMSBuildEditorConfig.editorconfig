@@ -28,24 +28,24 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/BdhCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xCZGhDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/BdhDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xCZGhEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/BdhDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xCZGhEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/BdhEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xCZGhFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/BdhIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xCZGhJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhCategories/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhHome/BdhAbout.cshtml]

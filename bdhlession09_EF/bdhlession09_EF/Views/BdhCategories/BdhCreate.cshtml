@@ -1,0 +1,32 @@
+﻿@model bdhlession09_EF.Models.Category
+
+@{
+    ViewData["Title"] = "Thêm mới danh mục loại";
+}
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <form form asp-action="BdhCreate">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="card-header">
+                    <h1>@ViewData["Title"]</h1>
+                </div>
+                <div class="card-body">
+                    <div class="form-group">
+                        <label asp-for="CategoryName" class="control-label"></label>
+                        <input asp-for="CategoryName" class="form-control" />
+                        <span asp-validation-for="CategoryName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <input type="submit" value="Thêm mới" name="btnBdhCreate" class="btn btn-primary" />
+                    <a asp-action="BdhIndex" class="btn btn-danger">Quay lại</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

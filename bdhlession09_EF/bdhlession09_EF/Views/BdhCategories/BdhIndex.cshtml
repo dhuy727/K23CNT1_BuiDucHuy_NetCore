@@ -4,32 +4,50 @@
     ViewData["Title"] = "BdhIndex";
 }
 
-<h1>Index</h1>
+<h1 class="text-center">@ViewData["Title"]</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <div class="d-flex flex-end bd-hightlight">
+
+        <form class="d-flex" role="search" action="BdhIndex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name="keyword"/>
+            <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+        <a asp-action="BdhCreate">Create New</a>
+    </div>
 </p>
-<table class="table">
+<table class="table table-bordered mt-3">
     <thead>
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.CategoryName)
             </th>
-            <th></th>
+            <th class="text-center">Chức năng </th>
         </tr>
     </thead>
     <tbody>
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.CategoryName)
+                @Html.DisplayFor(modelItem => item.CategoryId)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-bdhid="@item.CategoryId">Edit</a> |
-                <a asp-action="Details" asp-route-bdhid="@item.CategoryId">Details</a> |
-                <a asp-action="Delete" asp-route-bdhid="@item.CategoryId">Delete</a>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td class="text-center">
+                <a asp-action="BdhEdit" asp-route-bdhid="@item.CategoryId" class="btn btn-primary">Sửa</a> |
+                <a asp-action="Details" asp-route-bdhid="@item.CategoryId" class="btn btn-info">Xem</a> |
+                <a asp-action="Delete" asp-route-bdhid="@item.CategoryId" class="btn btn-danger">Xóa</a>
             </td>
         </tr>
 }
     </tbody>
+    <tfoot>
+        <tr>
+            <th colspan="3">Tổng số @Model.Count() </th>
+        </tr>
+    </tfoot>
 </table>

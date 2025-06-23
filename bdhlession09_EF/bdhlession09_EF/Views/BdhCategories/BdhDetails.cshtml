@@ -1,0 +1,34 @@
+﻿@model bdhlession09_EF.Models.Category
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+                <div class="card-header">
+                    <h1 class="my-2">@ViewData["Title"]</h1>
+                </div>
+                <div class="card-body">
+                    <div class="form-group my-1">
+                        <label>Mã loại:</label>
+                        @Html.DisplayNameFor(model => model.CategoryId)
+
+                    </div>
+                    <div class="form-group my-1">
+                        <label>Tên loại:</label>
+                    @Html.DisplayNameFor(model => model.CategoryName)
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="form-group my-2">
+                        <a asp-action="BdhEdit" asp-route-bdhId="@Model?.CategoryId" class="btn btn-primary">Sửa lại</a>
+                        <a asp-action="BdhIndex" class="btn btn-danger">Quay lại</a>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>

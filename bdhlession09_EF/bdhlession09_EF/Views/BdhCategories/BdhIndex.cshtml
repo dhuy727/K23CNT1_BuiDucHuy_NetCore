@@ -7,13 +7,16 @@
 <h1 class="text-center">@ViewData["Title"]</h1>
 
 <p>
-    <div class="d-flex flex-end bd-hightlight">
-
-        <form class="d-flex" role="search" action="BdhIndex">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name="keyword"/>
-            <button class="btn btn-outline-success" type="submit">Search</button>
+    <div class="d-flex justify-content-between align-items-center my-3">
+        <form class="d-flex w-50" role="search" asp-action="BdhIndex" method="get">
+            <input class="form-control me-2" type="search" placeholder="Tìm kiếm..." aria-label="Search" name="keyword" />
+            <button class="btn btn-success" type="submit">
+                <i class="bi bi-search"></i> Tìm
+            </button>
         </form>
-        <a asp-action="BdhCreate">Create New</a>
+        <a asp-action="BdhCreate" class="btn btn-primary">
+            <i class="bi bi-plus-circle"></i> Thêm mới
+        </a>
     </div>
 </p>
 <table class="table table-bordered mt-3">
@@ -39,8 +42,8 @@
             </td>
             <td class="text-center">
                 <a asp-action="BdhEdit" asp-route-bdhid="@item.CategoryId" class="btn btn-primary">Sửa</a> |
-                <a asp-action="Details" asp-route-bdhid="@item.CategoryId" class="btn btn-info">Xem</a> |
-                <a asp-action="Delete" asp-route-bdhid="@item.CategoryId" class="btn btn-danger">Xóa</a>
+                <a asp-action="BdhDetails" asp-route-bdhid="@item.CategoryId" class="btn btn-info">Xem</a> |
+                <a asp-action="BdhDelete" asp-route-bdhid="@item.CategoryId" class="btn btn-danger">Xóa</a>
             </td>
         </tr>
 }

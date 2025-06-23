@@ -14,7 +14,7 @@ namespace bdhlession09_EF.Models
         [Required(ErrorMessage = "Tên thể loại không được để trống")]
         [StringLength(100, ErrorMessage = "Tên thể loại tối đa 100 ký tự")]
         [Display(Name = "Tên thể loại")]
-        public string? CategoryName { get; set; }
+        public string CategoryName { get; set; }
 
         [Display(Name = "Danh sách sách")]
         public virtual ICollection<Book> Books { get; set; } = new List<Book>();

@@ -21,10 +21,10 @@ namespace bdhlession09_EF.Controllers
         // GET: BdhCategories
         public async Task<IActionResult> BdhIndex(string keyword)
         {
-            var bdhCatagories = await _context.Categories.ToListAsync();
-            if (string.IsNullOrWhiteSpace(keyword))     
+            List<Category> bdhCatagories = await _context.Categories.ToListAsync();
+            if (!string.IsNullOrEmpty(keyword))
             {
-                bdhCatagories =  bdhCatagories.Where(x=>x.CategoryName.Contains(keyword)).ToList();
+                bdhCatagories = bdhCatagories.Where(x => x.CategoryName.Contains(keyword)).ToList();
             }
             return View(bdhCatagories);
         }

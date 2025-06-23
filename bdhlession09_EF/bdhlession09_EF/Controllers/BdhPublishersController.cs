@@ -19,21 +19,21 @@ namespace bdhlession09_EF.Controllers
         }
 
         // GET: BdhPublishers
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> BdhIndex()
         {
             return View(await _context.Publishers.ToListAsync());
         }
 
         // GET: BdhPublishers/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> BdhDetails(int? bdhid)
         {
-            if (id == null)
+            if (bdhid == null)
             {
                 return NotFound();
             }
 
             var publisher = await _context.Publishers
-                .FirstOrDefaultAsync(m => m.PublisherId == id);
+                .FirstOrDefaultAsync(m => m.PublisherId == bdhid);
             if (publisher == null)
             {
                 return NotFound();
@@ -43,7 +43,7 @@ namespace bdhlession09_EF.Controllers
         }
 
         // GET: BdhPublishers/Create
-        public IActionResult Create()
+        public IActionResult BdhCreate()
         {
             return View();
         }
@@ -53,7 +53,7 @@ namespace bdhlession09_EF.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("PublisherId,PublisherName,Phone,Address")] Publisher publisher)
+        public async Task<IActionResult> BdhCreate([Bind("PublisherId,PublisherName,Phone,Address")] Publisher publisher)
         {
             if (ModelState.IsValid)
             {
@@ -65,14 +65,14 @@ namespace bdhlession09_EF.Controllers
         }
 
         // GET: BdhPublishers/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> BdhEdit(int? bdhid)
         {
-            if (id == null)
+            if (bdhid == null)
             {
                 return NotFound();
             }
 
-            var publisher = await _context.Publishers.FindAsync(id);
+            var publisher = await _context.Publishers.FindAsync(bdhid);
             if (publisher == null)
             {
                 return NotFound();
@@ -85,7 +85,7 @@ namespace bdhlession09_EF.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("PublisherId,PublisherName,Phone,Address")] Publisher publisher)
+        public async Task<IActionResult> BdhEdit(int id, [Bind("PublisherId,PublisherName,Phone,Address")] Publisher publisher)
         {
             if (id != publisher.PublisherId)
             {
@@ -116,15 +116,15 @@ namespace bdhlession09_EF.Controllers
         }
 
         // GET: BdhPublishers/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> BdhDelete(int? bdhid)
         {
-            if (id == null)
+            if (bdhid == null)
             {
                 return NotFound();
             }
 
             var publisher = await _context.Publishers
-                .FirstOrDefaultAsync(m => m.PublisherId == id);
+                .FirstOrDefaultAsync(m => m.PublisherId == bdhid);
             if (publisher == null)
             {
                 return NotFound();
@@ -136,7 +136,7 @@ namespace bdhlession09_EF.Controllers
         // POST: BdhPublishers/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public async Task<IActionResult> BdhDeleteConfirmed(int id)
         {
             var publisher = await _context.Publishers.FindAsync(id);
             if (publisher != null)

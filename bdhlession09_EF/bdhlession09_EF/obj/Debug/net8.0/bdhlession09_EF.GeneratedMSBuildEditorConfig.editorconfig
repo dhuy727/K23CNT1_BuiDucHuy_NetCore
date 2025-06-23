@@ -56,24 +56,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoSG9tZVxCZGhJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/BdhCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xCZGhDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/BdhDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xCZGhEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/BdhDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xCZGhEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/BdhEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xCZGhFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/BdhIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xCZGhJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/BdhPublishers/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmRoUHVibGlzaGVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Netcore/K23CNT1_BuiDucHuy_NetCore/bdhlession09_EF/bdhlession09_EF/Views/Shared/BdhError.cshtml]

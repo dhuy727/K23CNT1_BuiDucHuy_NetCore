@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bdhlession09_EF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fcea9a07943b80c3e35ac122fe2dc63aae18a81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+887b5567ed99b74dd4db12dc897a3a6240c5cb55")]
 [assembly: System.Reflection.AssemblyProductAttribute("bdhlession09_EF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bdhlession09_EF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhcategories\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhcategories\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\controllers\\bdhcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\controllers\\bdhcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhpublishers\\bdhdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhpublishers\\bdhdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhcategories\\bdhdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhcategories\\bdhdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhpublishers\\bdhdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhpublishers\\bdhdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhpublishers\\bdhedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhpublishers\\bdhedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhcategories\\bdhdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,16 +27,40 @@
       "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhcategories\\bdhedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\shared\\_bdhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\shared\\_bdhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhpublishers\\bdhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhpublishers\\bdhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\shared\\_bdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\shared\\_bdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\controllers\\bdhpublisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\controllers\\bdhpublisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhpublishers\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhpublishers\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhcategories\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhcategories\\bdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\bdhcategories\\bdhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\bdhcategories\\bdhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\controllers\\bdhcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\controllers\\bdhcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\shared\\_bdhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\shared\\_bdhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\views\\shared\\_bdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\views\\shared\\_bdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\controllers\\bdhpublisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|solutionrelative:bdhlession09_ef\\controllers\\bdhpublisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D4FCD5E-FA5E-4B2E-90EC-9E44777D7BF7}|bdhlession09_EF\\bdhlession09_EF.csproj|c:\\netcore\\k23cnt1_buiduchuy_netcore\\bdhlession09_ef\\bdhlession09_ef\\models\\bdhlession09context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,56 +90,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BdhCategoriesController.cs",
-              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Controllers\\BdhCategoriesController.cs",
-              "RelativeDocumentMoniker": "bdhlession09_EF\\Controllers\\BdhCategoriesController.cs",
-              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Controllers\\BdhCategoriesController.cs",
-              "RelativeToolTip": "bdhlession09_EF\\Controllers\\BdhCategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T03:38:16.524Z",
+              "DocumentIndex": 0,
+              "Title": "BdhDelete.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhDelete.cshtml",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhPublishers\\BdhDelete.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhDelete.cshtml",
+              "RelativeToolTip": "bdhlession09_EF\\Views\\BdhPublishers\\BdhDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T07:02:35.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BdhCreate.cshtml",
-              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhCreate.cshtml",
-              "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhCategories\\BdhCreate.cshtml",
-              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhCreate.cshtml",
-              "RelativeToolTip": "bdhlession09_EF\\Views\\BdhCategories\\BdhCreate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BdhDetails.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhDetails.cshtml",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhPublishers\\BdhDetails.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhDetails.cshtml",
+              "RelativeToolTip": "bdhlession09_EF\\Views\\BdhPublishers\\BdhDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-23T01:36:05.078Z",
+              "WhenOpened": "2025-06-23T06:59:44.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BdhEdit.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhEdit.cshtml",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhPublishers\\BdhEdit.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhEdit.cshtml",
+              "RelativeToolTip": "bdhlession09_EF\\Views\\BdhPublishers\\BdhEdit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T06:54:54.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BdhCreate.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhCreate.cshtml",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhPublishers\\BdhCreate.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhCreate.cshtml",
+              "RelativeToolTip": "bdhlession09_EF\\Views\\BdhPublishers\\BdhCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T06:48:32.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "_BdhLayout.cshtml",
-              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\Shared\\_BdhLayout.cshtml",
-              "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\Shared\\_BdhLayout.cshtml",
-              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\Shared\\_BdhLayout.cshtml",
-              "RelativeToolTip": "bdhlession09_EF\\Views\\Shared\\_BdhLayout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-16T01:34:00.478Z",
+              "Title": "BdhPublishersController.cs",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Controllers\\BdhPublishersController.cs",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Controllers\\BdhPublishersController.cs",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Controllers\\BdhPublishersController.cs",
+              "RelativeToolTip": "bdhlession09_EF\\Controllers\\BdhPublishersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:03:54.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "BdhIndex.cshtml",
               "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhIndex.cshtml",
               "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhCategories\\BdhIndex.cshtml",
               "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhIndex.cshtml",
               "RelativeToolTip": "bdhlession09_EF\\Views\\BdhCategories\\BdhIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-16T03:45:08.414Z",
               "EditorCaption": ""
@@ -132,35 +178,35 @@
               "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhCategories\\BdhEdit.cshtml",
               "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhEdit.cshtml",
               "RelativeToolTip": "bdhlession09_EF\\Views\\BdhCategories\\BdhEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-16T03:49:43.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BdhDelete.cshtml",
               "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhDelete.cshtml",
               "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhCategories\\BdhDelete.cshtml",
               "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhDelete.cshtml",
               "RelativeToolTip": "bdhlession09_EF\\Views\\BdhCategories\\BdhDelete.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-16T03:49:54.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "bdhlession09_EF\\Models\\Category.cs",
-              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Models\\Category.cs",
-              "RelativeToolTip": "bdhlession09_EF\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:04:47.07Z",
+              "DocumentIndex": 8,
+              "Title": "BdhIndex.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhIndex.cshtml",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhPublishers\\BdhIndex.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhPublishers\\BdhIndex.cshtml",
+              "RelativeToolTip": "bdhlession09_EF\\Views\\BdhPublishers\\BdhIndex.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T06:42:27.39Z",
               "EditorCaption": ""
             },
             {
@@ -171,14 +217,27 @@
               "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhCategories\\BdhDetails.cshtml",
               "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhDetails.cshtml",
               "RelativeToolTip": "bdhlession09_EF\\Views\\BdhCategories\\BdhDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-16T03:49:35.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
+              "Title": "BdhCategoriesController.cs",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Controllers\\BdhCategoriesController.cs",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Controllers\\BdhCategoriesController.cs",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Controllers\\BdhCategoriesController.cs",
+              "RelativeToolTip": "bdhlession09_EF\\Controllers\\BdhCategoriesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:38:16.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_BdhNavBar.cshtml",
               "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\Shared\\_BdhNavBar.cshtml",
               "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\Shared\\_BdhNavBar.cshtml",
@@ -191,7 +250,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Models\\Category.cs",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Models\\Category.cs",
+              "RelativeToolTip": "bdhlession09_EF\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:04:47.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BdhCreate.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhCreate.cshtml",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhCategories\\BdhCreate.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhCategories\\BdhCreate.cshtml",
+              "RelativeToolTip": "bdhlession09_EF\\Views\\BdhCategories\\BdhCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T01:36:05.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_BdhLayout.cshtml",
+              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\Shared\\_BdhLayout.cshtml",
+              "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\Shared\\_BdhLayout.cshtml",
+              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\Shared\\_BdhLayout.cshtml",
+              "RelativeToolTip": "bdhlession09_EF\\Views\\Shared\\_BdhLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T01:34:00.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Program.cs",
               "RelativeDocumentMoniker": "bdhlession09_EF\\Program.cs",
@@ -199,12 +295,11 @@
               "RelativeToolTip": "bdhlession09_EF\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAvwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T03:18:17.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T03:18:17.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "BdhHomeController.cs",
               "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Controllers\\BdhHomeController.cs",
               "RelativeDocumentMoniker": "bdhlession09_EF\\Controllers\\BdhHomeController.cs",
@@ -212,25 +307,11 @@
               "RelativeToolTip": "bdhlession09_EF\\Controllers\\BdhHomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T01:40:29.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T01:40:29.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BdhPublishersController.cs",
-              "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Controllers\\BdhPublishersController.cs",
-              "RelativeDocumentMoniker": "bdhlession09_EF\\Controllers\\BdhPublishersController.cs",
-              "ToolTip": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Controllers\\BdhPublishersController.cs",
-              "RelativeToolTip": "bdhlession09_EF\\Controllers\\BdhPublishersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T04:03:54.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\appsettings.json",
               "RelativeDocumentMoniker": "bdhlession09_EF\\appsettings.json",
@@ -238,12 +319,11 @@
               "RelativeToolTip": "bdhlession09_EF\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-16T03:16:05.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T03:16:05.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Bdhlession09Context.cs",
               "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Models\\Bdhlession09Context.cs",
               "RelativeDocumentMoniker": "bdhlession09_EF\\Models\\Bdhlession09Context.cs",
@@ -255,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "BdhAbout.cshtml",
               "DocumentMoniker": "C:\\Netcore\\K23CNT1_BuiDucHuy_NetCore\\bdhlession09_EF\\bdhlession09_EF\\Views\\BdhHome\\BdhAbout.cshtml",
               "RelativeDocumentMoniker": "bdhlession09_EF\\Views\\BdhHome\\BdhAbout.cshtml",
